@@ -1,6 +1,3 @@
-from pickle import TRUE
-
-
 def greaterThan(x,y):
     if x>y:
         return TRUE
